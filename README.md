@@ -19,3 +19,6 @@ Raw Datafile: http://www.statmt.org/wmt17/biomedical-translation-task.html
 Experiment Summary File: https://docs.google.com/spreadsheets/d/1VgRGGDv_ynvTORz3vHtH2VgRQnyxv9qBkDkPjSpDj3c/edit?usp=sharing
 
 PPT Report: https://docs.google.com/presentation/d/1uooBnccX9QZIn9_cxsXoXJXYk1Iiayux8g7oSfZ0J50/edit#slide=id.g58d699489f_0_1120
+
+Video Link:
+https://youtu.be/sVPa_3H5A7I
