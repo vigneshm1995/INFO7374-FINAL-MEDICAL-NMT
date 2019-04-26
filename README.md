@@ -6,7 +6,7 @@ We mainly referenced [Tensorflow Official NMT tutorial](https://www.tensorflow.o
 
 Deployed application : https://tinyurl.com/info7374team2
 
-Claat Report: https://docs.google.com/document/d/1e3he3zDgjKCUwRqHYEne081hjbERodxoVi3asswTsBw/edit?usp=sharing
+Claat Report: https://codelabs-preview.appspot.com/?file_id=1e3he3zDgjKCUwRqHYEne081hjbERodxoVi3asswTsBw#0
 
 Raw Datafile: http://www.statmt.org/wmt17/biomedical-translation-task.html
 
