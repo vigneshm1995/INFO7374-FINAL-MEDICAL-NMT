@@ -1,4 +1,4 @@
-Flask application launched on Amazon EC2 t2.micro instance at https://tinyurl.com/yyzbjpsb
+Flask application launched on Amazon EC2 t2.micro instance at https://tinyurl.com/info7374team2
 
 
 SOME SENTENCES FROM TEST SET
